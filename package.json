@@ -1,0 +1,12 @@
+{
+  "name": "xpbot",
+  "version": "0.0.1",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "author": "Exp",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "11.1.0"
+    "request": "2.81.0"
+  }
+}
